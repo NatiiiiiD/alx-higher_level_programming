@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def roman_value(prmCharacter):
-    roman_digits = [('I', 1), ('VI', 6), ('X', 10),
+    roman_digits = [('I', 1), ('V', 5), ('X', 10),
                   ('L', 50), ('C', 100), ('D', 500), ('M', 1000)]
     for item in roman_digits:
         character, value = item
