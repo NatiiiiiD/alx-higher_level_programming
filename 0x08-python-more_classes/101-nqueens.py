@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 """
 A Program that uses backtracking to find all the ways to place n queens on 
-an n x n chessboard so no queens can attack each other. 
-It will print the coordinates of each queen.
+an n x n chessboard so no queens can attack each other.
 """
 
 
